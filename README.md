@@ -6,6 +6,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Links](#links)
+- [Author](#author)
 
   ## Overview
 
@@ -14,3 +16,14 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 Users should be able to:
 
 - See hover states for interactive elements
+
+### Links
+
+- Solution URL: https://github.com/rodrigojteixeira/OrderSummaryComponent
+- Live Site URL: https://rodrigojteixeira.github.io/OrderSummaryComponent/
+
+## Author
+
+- LinkedIn - https://www.linkedin.com/in/rodrigojt/
+- GitHub - https://github.com/rodrigojteixeira
+- Frontend Mentor - https://www.frontendmentor.io/profile/rodrigojteixeira
